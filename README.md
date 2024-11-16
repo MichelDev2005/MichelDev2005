@@ -1,7 +1,7 @@
 <h1 align="center">Hi, my name's Michel!</h1>
 
 # 💫 About me:
-🔭Knowledge is power.<br>👯 Studying more and more<br>⚡ Programming for five years<br>💬 I love teaching and programming
+🔭Knowledge is power.<br>👯 Studying more and more.<br>⚡ Developer for over 6 years.<br>💬 I love teaching and studying.
 
 ## 🌐 Socials:
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/https://stackoverflow.com/users/20015019/micheldev) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/c/https://www.youtube.com/channel/UCRvJJNJ0NANQaKaF4uCldTw) 
